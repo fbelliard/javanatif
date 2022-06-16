@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.younup
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: gradle_kotlin
+features: [annotation-api, app-name, assertj, data, data-jdbc, graalvm, gradle, h2, http-client, jackson-databind, jdbc-hikari, junit, kotlin, kotlin-application, kotlin-build, kotlin-extension-functions, logback, management, micronaut-aot, micronaut-build, mockito, netty-server, openapi, reactor, reactor-http-client, readme, shade, swagger-ui, yaml]
